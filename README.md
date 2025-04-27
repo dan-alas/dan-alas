@@ -1,7 +1,6 @@
-.
-<header>
-  <img src="https://drive.google.com/file/d/1t8C40Vry9oHbSkvC_0mm_58K9e5DW-kT/view?usp=drive_link" alt="my profile header">
-</header>
+
+<img src="https://drive.google.com/file/d/1t8C40Vry9oHbSkvC_0mm_58K9e5DW-kT/view?usp=drive_link" alt="my profile header">
+
 - 🌱 I’m currently learning **full stack development**
 
 - 🤝 I’m looking for help with **web projects**
