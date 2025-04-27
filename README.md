@@ -1,8 +1,8 @@
 
 ![Mi imagen](github-header-image.png)
 
-<h3 align="left">👨‍💻 About Me</h3>
-Passionate about technology and innovation 🚀
+<h3 align="left">About Me: </h3>
+Currently I´m Systems Engineering student. I'm Passionate about technology and innovation 🚀
 
 - 🌱 I’m currently learning **full stack development**
 
