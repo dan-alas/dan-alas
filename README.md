@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/file/d/1t8C40Vry9oHbSkvC_0mm_58K9e5DW-kT/view?usp=drive_link" alt="my profile header">
+![Mi imagen](github-header-image)
 
 - 🌱 I’m currently learning **full stack development**
 
