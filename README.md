@@ -2,7 +2,7 @@
 ![Mi imagen](github-header-image.png)
 
 <h3 align="left">About Me: </h3>
-Currently I´m Systems Engineering student. I'm Passionate about technology and innovation 🚀
+Currently, I'm a Systems Engineering student. I'm passionate about technology and innovation. 🚀
 
 - 🌱 I’m currently learning **full stack development**
 
@@ -12,7 +12,7 @@ Currently I´m Systems Engineering student. I'm Passionate about technology and 
 
 - 📫 How to reach me **alasalexander76@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I built my first website when I was 15 years old.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
