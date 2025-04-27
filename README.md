@@ -1,5 +1,5 @@
 
-![Mi imagen](github-header-image)
+![Mi imagen](github-header-image.png)
 
 - 🌱 I’m currently learning **full stack development**
 
