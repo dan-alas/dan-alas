@@ -1,6 +1,8 @@
 
 ![Mi imagen](github-header-image.png)
 
+Passionate about technology and innovation 🚀
+
 - 🌱 I’m currently learning **full stack development**
 
 - 🤝 I’m looking for help with **web projects**
