@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **web projects**
 
-- 💬 Ask me about **html, css and python**
+- 💬 Ask me about **html, css, python and arduino**
 
 - 📫 How to reach me **alasalexander76@gmail.com**
 
