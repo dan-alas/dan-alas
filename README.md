@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Daniel Alas</h1>
-<h3 align="center">A passionate Systems Engineering student in El Salvador</h3>
-
+.
+<header>
+  <img src="https://drive.google.com/file/d/1t8C40Vry9oHbSkvC_0mm_58K9e5DW-kT/view?usp=drive_link" alt="my profile header">
+</header>
 - 🌱 I’m currently learning **full stack development**
 
 - 🤝 I’m looking for help with **web projects**
