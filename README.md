@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 💬 Ask me about **html, css,bootstrap, python and arduino**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Python and Arduino**
 
-- 📫 How to reach me **alasalexander76@gmail.com**
+- 📫 How to reach me **daniel.alas@gmail.com**
 
 - ⚡ Fun fact **I built my first website when I was 15 years old.**
 
