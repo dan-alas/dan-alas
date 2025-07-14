@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Python and Arduino**
 
-- 📫 How to reach me **daniel.alas@gmail.com**
+- 📫 How to reach me **daniel.alas2007@gmail.com**
 
 - ⚡ Fun fact **I built my first website when I was 15 years old.**
 
